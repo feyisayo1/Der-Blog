@@ -33,7 +33,7 @@ export default {
     header a {
         color:#bbb;
         text-decoration: none;
-        /* margin-left: 20px; */
+        margin-left: 20px;
     }
     header a.router-link-active{
         /* color: #444; */
